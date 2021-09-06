@@ -1,3 +1,11 @@
+h1 {text-align: center;
+    font-family: 'Noto Serif JP', serif;
+    color: #13293D;
+    font-size: 50px;
+
+    
+    }
+
 body{
     
     margin: 0;
@@ -13,9 +21,9 @@ body{
 }
 .name .content{
     width: 50%;
-    height: 2%;
+    height: 1%;
     left:   30%;
-    bottom: 80%;
+    bottom:65%;
     position: absolute;
     
 }
@@ -52,7 +60,7 @@ body{
     
 }
 .info .titulo{
-    color: azure;
+    color: beige;
     font-family: 'Manrope', sans-serif, sans-serif;
     font-size: xx-large;
     text-align: center;
@@ -65,7 +73,7 @@ body{
     font-weight: bolder;
     font-size: large;
     display: inline;
-    margin-right: 40px;
+    margin-right: 0px;
 
 }
 .info .llenado{
